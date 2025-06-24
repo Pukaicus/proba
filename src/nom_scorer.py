@@ -7,7 +7,7 @@ def charger_noms_depuis_csv(csv_path):
     df = df.set_index(df.columns[0])
     freq = df.sum(axis=1)
     total = freq.sum()
-    rarity = {nom.upper(): -math.log(f / total) for nom, f in freq.items() if f > 0}
+    rarity = {nom.upper(): -math.log(f / total) for nom, f in freq.items() if f > 0 and len(nom) >= 3}
     bins = np.histogram_bin_edges(list(rarity.values()), bins=7)
     return rarity, bins
 
@@ -17,21 +17,18 @@ def score_rarete(val, bins):
 def get_nom_score(nom, rarity_dict, bins, email=None, texte=None, prenom=None):
     blacklist_noms = {
         "POWER", "GENIE", "POINT", "EXPERT", "COMPTA", "SAGE", "AVRIL", "MARS",
-        "MOVIE", "ACCESS", "WINDOWS", "CISCO", "JEE", "PIX", "ORACLE", "COREL"
+        "MOVIE", "ACCESS", "WINDOWS", "CISCO", "JEE", "PIX", "ORACLE", "COREL",
+        "DEPUIS", "FREE", "POL", "AOUT", "SEPTEMBRE", "DECEMBRE", "JUIN", "JUILLET"
     }
 
     n_clean = nom.strip().upper()
 
-    # Écarter les mots techniques directement
     if n_clean in blacklist_noms or len(n_clean) < 3:
-        return 1
+        return 1  # Faible score pour éviter les faux positifs
 
     rare_val = rarity_dict.get(n_clean, None)
-
-    # Score de base : rareté ou 1 si inconnu
     base_score = score_rarete(rare_val, bins) if rare_val else 1
 
-    # Bonus si trouvé dans email, prénom ou texte
     bonus = 0
     if email and n_clean.lower() in email.lower():
         bonus += 1
