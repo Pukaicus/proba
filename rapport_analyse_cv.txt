@@ -1,0 +1,306 @@
+--- Texte extrait du CV ---
+
+               
+DEVELOPPEUR  «  WINDEV  »                                                                                                
+ 
+Formation  Initiale  : 
+ 2007  : Formation Professionnelle  système exploitation et traitement du texte  
+Monastir -Tunisie «  AFRICAN COMPUTER SCHOOL » 
+ 2009  : Obtention  de diplôme  de maintenance et programmation informatique  
+Tunis -Tunisie « NEJMA ECOLE DE FORMATION » 
+ 2017  : Obtention  de certificat d’expérience professionnelle informatique  
+Tunis -Tunisie « Ministre de formation Tunisie » 
+Stage  : 
+ 04/2010 – 07/2010  : Stage de formation en tant que technico -commercial  
+ 08/2017 – 02/2018  : Stage de formation en tant que développeur informatique  
+Langue  : 
+ Anglais    : Technique  
+ Français  : Bilingue  
+ Arabe      : Langue Maternelle     
+Localisation  : 
+ Tunis –Tunisie  
+ 
+Compétences  Techniques  
+ Systèmes d’exploitation  : 
+ 
+ Programmation  : 
+ 
+ Base des données  : 
+ 
+ Multimédia  : 
+ 
+ Autre  : 
+Compétences  Fonctionnelles  
+ Etude des besoins  : 
+- Analyser, modéliser et concevoir des besoins utilisateurs métier.  
+- Rédiger les spécifications fonctionnels détaillées.  
+ Tests  : 
+- Définir les tests techniques et fonctionnels.  
+ Support Utilisateurs  : 
+- Concevoir et animer les formations utilisateurs et le support.  
+- Rédiger les guides utilisatuers et les guides métiers.  
+ 
+ 
+ OUSSAMA HILATI                                                  
+ E-mail : commercial@lsi.tn  
+Tél      : (+216) 24  576 039 
+ 
+ WINDEV – WEBDEV – WINDEV MOBILE  - 
+DREAM WEAVER  - MS-DOS  
+ XML -  HTML – PHP  
+ SQL , Oracle, Access, HFSQL …   
+ Photoshop, Corel Draw, Macromedia Flash, 
+Animation Power Point  
+ MS Office, Adobe, Movie Maker, Sage ET Ciel…   Windows (95.98.XP.2000)  
+ WIN 7 – WIN 8 – WIN 10  
+ IOS – ANDROID  
+ 
+LSI INFORMATIQUE «  SOCIETE PROGRAMMATION INFORMATIQUE  » 
+Depuis Avril 2021  
+ 
+Fonction  
+ 
+Missions et tâches réalisées  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projet(s)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+FLOURIDA PLUS  « SOCIETE DE PRODUCTION PRODUITS D’ENTRETIEN  » 
+De Juin 2020 à Décembre 20 20 
+ 
+Fonction  
+ 
+Missions et tâches réalisées  
+ Gérant -Développeur informatique  
+ Rencontrer le client et dét erminer les conditions générales  du contrat  
+ Analyser le besoin du client en lisant les documents de spécification  
+ Contribuer avec l’équipe des architectes dans la rédaction du document de 
+spécification technique.  
+ Définir des conventions de nommage et des meilleurs pra tiques pour l’équipe 
+de développement.  
+ Mise en place de l’environnement du travail  
+ Développement de la partie de base de donnes  
+ Développement de la partie output (fenêtres, tables, états...)  
+ Tester l’application avec des différents pipelines dans l’environnement de pré -
+production.  
+ Test unitaire  
+ Traitement des demandes d’anomalies et des demandes d’évolution.  
+ Assurer le support client  
+ 
+ LSI PAIE  :  
+Application de gestion paie selon les spécifications tunisiennes.  
+ L’ESSENTIEL  :  
+Application de déclaration mensuelle selon les spécifications tunisiennes.  
+ LOGICIEL ARBIO  :  
+Mini «  ERP » personnalisé pour société cosmétique.  
+ LSI COMMERCIALE V2021  :  
+Intégré 5 nouveaux modules à l’application « LSI » pour devenir un «  ERP » 
+standard.  
+ LE PROFESSIONNEL  :  
+Logiciel de débitage et facturation destiné aux miniséries aluminiums . 
+ GEST -WIN  
+Logiciel de gestion  destiné aux boutiques des paris sportifs.  
+ L’EXPERT  
+L’évolution d’application «  Génie -compta  » à un lo giciel de comptabilité 
+performant.  
+ L’ASSOCIATION  
+Logiciel de gestion  développer pour aide les associations à gère leurs activités et 
+dépenses.  
+ LSI STATION  
+Logiciel de gestion  destiné  aux stations  de services (Gestion  des index avec 
+traçabilité  total de lettrage  de carburant, Gestion  des pistes …). 
+  
+Développeur et support  applicatif free-lance  
+ Contribuer au développement  et support des applications dont la mise en 
+place des nouveaux modules concernant la gestion commerciale (ERP -CRM ). 
+ Gérer la parie back office de la plateforme e -commerce.  
+ Assurer le support des logiciels et du matériel  Expériences professionnelles  
+(www.lsi.tn ) 
+FREE -LANCE  
+De Décembre  2011  à Avril 2021  
+ 
+Fonction  
+ 
+Missions et tâches réalisées  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Projet(s)  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Développeur informatique « WINDEV  » 
+ Rencontrer le client et dét erminer les conditions générales  du contrat  
+ Analyser le besoin du client en lisant les documents de spécification  
+ Mise en place de l’environnement du travail  
+ Développement de la partie de base de donnes  
+ Développement de la partie output (fenêtres, tables, états...)  
+ Tester l’application avec des différents pipelines dans l’environnement de pré -
+production.  
+ Test unitaire  
+ Traitement des demandes d’anomalies et de s demandes d’évolution.  
+ Assurer le support client  
+ LSI COMMERCIALE  « Application windev développé en 2014  » : 
+Application de gestion commerciale selon des spécifications tunisienne.  
+Fonctionalité  : 
+- Gestion des clients et fournisseurs, balance des mouvements, règlements...  
+- Gestion de stock, inventaire instantané, gestion des lots ….  
+- Trésorerie, journal des achats et ventes ….  
+- Gestion des dépenses et bénéfices ….  
+ LSI COM PRO  « Application windev développé en 2015  » : 
+Application de gestion commerciale destinée aux centres automobiles.  
+Fonctionalité  : 
+- Gestion des clients et fournisseurs, balance des mouvements, règlements...  
+- Gestion des ordres des réparations avec gestion des pièces utilisées.  
+ GENIE -COMPTA  « Application windev développé en 2016  » : 
+Application de comptabilité selon des spécifications tunisienne.  
+Fonctionalité  : 
+- Gestion des mouvements,  
+- Editions des journaux, balance….  
+- Etat de flux, état de trésorerie, bilan et  fin exercice comptable….  
+ POS -PRO  « Application windev développé en 2017  » : 
+Application de gestion de caisse tactile destinée aux spécialistes de restauration . 
+Fonctionalité  : 
+- Gestion de caisse avec saisie tactile installé sur les machines tactiles avec des 
+images animé et donnés préenregistré selon l’activité (café, resto, etc...)  
+- Journal caisse avec des statistique des entres et sorties des produits.  
+ LSI-GARAGE  « Application windev développé en 2017  » : 
+Application destinée aux ateliers  mécanique . 
+Fonctionalité  : 
+- Gestion des voitures avec des alertes personnalisées.  
+- Estimation des couts des pièces et des réparations de chaque voiture selon 
+des théorèmes saisie.  
+- Envoyées des rappelles aux clients pour leurs entretien.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+AH.COM  
+De Mars  2011  à Septembre 2011  
+ 
+Fonction  
+ 
+Missions et tâches réalisées  
+ 
+ 
+ 
+ 
+SO.TU.POL  « SOCIETE TUNISIEN NE DES POILS LOURD  » 
+De Aout  2010 à Décembre 2010  
+ 
+Fonction  
+ 
+Missions et tâches réalisées  
+ 
+ 
+ 
+ 
+ Chef de projet  
+ Assuré la fonctionnalité de tous les Matérielles et les logiciels  
+ Gérer les activités administratives de l’entreprise à travers logiciel «COMPRO»  
+ Contrôler les donnes stockées à la base de donnes de logiciel  
+ LSI-STORE  « Application windev développé en 2018  » : 
+Application de gestion destinée aux boutiques des vêtements.  
+Fonctionalité  : 
+- Gestion des articles avec tailles et les couleurs (STOCK Détailler)  
+- Gestion de caisse avec saisie tactile installé sur les machines tactiles avec des 
+images animé et donnés préenregistré  
+- Journal caisse avec des statistique des entres et sorties des articl es. 
+- Gestion des points et carte fidélité.  
+ LSI-CAISSE  « Application windev développé en 2018  » : 
+Application de gestion caisse avec code barre  destinée aux magasins.  
+Fonctionalité  : 
+- Gestion des produits  avec code de barres  
+- Gestion de stock, inventaire instantané ….  
+- Trésorerie, journal des achats et ventes ….  
+- Gestion des dépenses et bénéfices ….  
+- Gestion des fournisseurs, balance des mouvements, règlements...  
+ LSI-MARITIME  « Application windev développé en 2019  » : 
+Application de gestion des dossiers mari time s destinés aux sociétés import -export . 
+Fonctionalité  : 
+- Gestion des dossiers, frais selon l’opération…  
+- Générer les avis et les préavis….  
+- Suivie les étapes des dossiers maritime selon les clients  
+- Gestion des dépenses et des honoraires ….  
+- Facturation, impression des états personnalisés selon le cas …  
+ 
+Responsable Informatique et Gestion  
+ Assuré la fonctionnalité de tous les Matérielles et les logiciels  
+ Gérer les activités administratives de l’entreprise à travers logiciel «COMPRO»  
+ Contrôler les donnes stockées à la base de donnes de logiciel  
