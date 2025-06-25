@@ -1,0 +1,108 @@
+ Recherche d'alternance pour la Formation
+Concepteur Développeur d'Applications
+(CDA) avec ENI Ecole Informatique
+
+Compétences  en Informatique
+
+Langages utilisés :
+
+HTML 
+CSS 
+PHP 
+C/C++ 
+Java 
+Java JEE
+Python 
+Javascript
+
+Travail sous plusieurs systèmes
+d'exploitation :
+
+Windows 10 
+Windows serveur 2016
+Linux - Debian
+Linux - Kali
+
+Expériences en Informatique
+
+Création d'un serveur d'entreprise (réalisation durant les
+cours) : Mise en place du serveur, des machines
+clientes, paramétrage des stratégies, des groupes, des
+utilisateurs.
+
+Mise en Place d'une gestion de projet  de parc
+informatique : Choix des matériels selon leur utilisation,
+calcul d'un devis, mesure du temps de réalisation par
+méthodes PERT et MPM.
+
+Développement d'un site marchand fictif en PHP: depuis
+la page d'accueil jusqu'au panier.
+
+Développement d'exercices de cybersécurité en
+Langage C/C++ sur une machine virtuel Kali-Linux en
+stage en entreprise.
+
+Développement d'un jeu vidéo de plateau en Java (type
+jeu de l'oie) en projet d'année.
+
+Création de pages internet en HTML avec Bootstrap.
+
+Développement d'un Jeu de Blackjack en Javascript
+
+Expériences Professionnelles
+
+2021 : Conseiller relation Clients (Génération)
+2019 - 2020 : Facteur Colis (La Poste)
+2018-2019 : Professeur d'allemand en lycée publique (à Nantes)
+de 2012 à 2017 : Diverses missions avec le groupe La Banque Postale
+(CDD, intérim) 
+
+VINCENT 
+FOURNIER
+
+28 ans
+Permis B
+
+7A rue Marie-Rose Le BLOCH
+29000 QUIMPER 
+06.40.22.83.54
+vincentfournier1993@gmail.com
+
+Formation Scolaire
+
+08/2021 - 06/2022 
+BTS Service Informatique aux
+Organisations option Solutions
+Logicielles et Application Métier
+(SIO - SLAM)  - GRETA Quimper
+(obtenu)
+
+2015-2018 
+Licence LLCE allemand et DEUG
+bilingue anglais-allemand
+(obtenus) - Université de Nantes
+
+2012 
+Baccalauréat général série
+Scientifique - Lycée St Stanislas
+de Nantes(obtenu)
+
+Autres Expériences
+
+Résolution de tickets
+basiques suite à une panne
+informatique : utilisation de
+logiciel interne, type GLPI
+(LBP).
+
+Saisie et traitement de
+dossiers de procuration : plus
+de 3000 en 3 mois (LBP).
+
+Certification Cisco et PIX
+obtenues (Durant la formation
+du GRETA).
+
+  
+ 
+
